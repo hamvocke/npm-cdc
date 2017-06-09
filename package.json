@@ -7,7 +7,7 @@
     "start": "./run.sh",
     "test": "jasmine"
   },
-  "author": "",
+  "author": "Ham Vocke",
   "license": "ISC",
   "dependencies": {
     "jasmine": "^2.6.0",
