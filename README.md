@@ -1,4 +1,4 @@
-# Spike for writing simple CDC tests in node
+# Writing simple CDC tests in node
 This spike demonstrates how you can test HTTP APIs using node and jasmine. The tests can be bundled as an npm package and then be distributed via npm.
 
 ## Executing the tests
